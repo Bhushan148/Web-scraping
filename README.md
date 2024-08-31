@@ -25,7 +25,7 @@ In this project, I:
 Successfully demonstrated web scraping by saving the webpage first, ensuring data accuracy, and extracting and structuring the information into a tabular format. 🏆
 
 **See Project Jupyter File Here:**  
-[**Save HTML Webpage Jupyter File**](https://github.com/YourGitHubUsername/Web-Scraping)
+[**Save HTML Webpage Jupyter File**](https://github.com/Bhushan148/Web-scraping/blob/main/All%20Project%20Resource/Web%20Scrapping%20(With%20Save%20HTML%20webpage).ipynb)
 
 ---
 
@@ -50,7 +50,7 @@ In this project, I:
 Successfully extracted and stored movie data in a tabular format, demonstrating effective live web scraping techniques. 🚀
 
 **See Project Jupyter File Here:**  
-[**IMDB Web Scraping Jupyter File**](https://github.com/YourGitHubUsername/Web-Scraping-IMDB)
+[**IMDB Web Scraping Jupyter File**](https://github.com/Bhushan148/Web-scraping/blob/main/All%20Project%20Resource/Web%20Scrapping%20IMDB%20Webpage.ipynb)
 
 ---
 
@@ -75,13 +75,13 @@ In this project, I:
 Successfully extracted population data from a specific Wikipedia table, showcasing skills in handling structured data and extracting useful information from web tables. 🎯
 
 **See Project Jupyter File Here:**  
-[**Wikipedia Tables Web Scraping Jupyter File**](https://github.com/YourGitHubUsername/Web-Scraping-Wikipedia)
+[**Wikipedia Tables Web Scraping Jupyter File**](https://github.com/Bhushan148/Web-scraping/blob/main/All%20Project%20Resource/Web%20Scrapping%20On%20Wikipedia%20Tables.ipynb)
 
 ---
 
 ## 🔗 **Additional Information**
 
-- **Complete Webpage Project:** [**Complete Webpage Here**](https://github.com/YourGitHubUsername/Web-Scraping)
+- **Complete Webpage Project:** [**Complete Webpage Here**](https://github.com/Bhushan148/Web-scraping/blob/main/All%20Project%20Resource/Mobile%20Phones%20_%20Mobile%20Phones%20Online%20at%20Best%20Prices%20in%20India%202024%20_%20Smartprix.html)
 - **IMDB Top 250 Movies:** [**IMDB Top 250**](https://www.imdb.com/chart/top/)
 - **Wikipedia Demographics of India:** [**Wikipedia Page**](https://en.wikipedia.org/wiki/Demographics_of_India)
 
